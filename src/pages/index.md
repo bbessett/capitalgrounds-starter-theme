@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/partyrow.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: CAPITOL GROUNDS CAFE
+subheading: 802 223 7800
 mainpitch:
   title: Why Kaldi
   description: >
