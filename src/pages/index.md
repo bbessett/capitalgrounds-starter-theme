@@ -4,8 +4,8 @@ title: Hand fabricated and unique jewelry with a rustic yet sophisticated style 
 image: /img/hero-image-full.jpg
 heading: Melody Jean Designs
 subheading: >-
-  Melody Jean Designs has made unique engagement rings, bridesmaids gifts,
-  friendship pieces and other personalized gifts.  
+  I make unique engagement rings, bridesmaids gifts, friendship pieces and other
+  personalized gifts.  
 mainpitch:
   title: Why Kaldi
   description: >
